@@ -1,4 +1,3 @@
-
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║        APLIKASI PRAKTIKUM KIMIA ORGANIK — STREAMLIT APP             ║
 # ║  pip install streamlit pandas                                        ║
