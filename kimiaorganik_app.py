@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/kimia_organik_app.py << 'PYEOF'
+
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║        APLIKASI PRAKTIKUM KIMIA ORGANIK — STREAMLIT APP             ║
 # ║  pip install streamlit pandas                                        ║
